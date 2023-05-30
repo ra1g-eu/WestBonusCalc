@@ -1,0 +1,13 @@
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\bin\Debug\WestBonusCalc.exe.config
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\bin\Debug\WestBonusCalc.exe
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\bin\Debug\WestBonusCalc.pdb
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\obj\Debug\WestBonusCalc.csproj.AssemblyReference.cache
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\obj\Debug\WestBonusCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\obj\Debug\WestBonusCalc.Form1.resources
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\obj\Debug\WestBonusCalc.Properties.Resources.resources
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\obj\Debug\WestBonusCalc.csproj.GenerateResource.cache
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\obj\Debug\WestBonusCalc.csproj.CoreCompileInputs.cache
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\obj\Debug\WestBonusCalc.exe
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\obj\Debug\WestBonusCalc.pdb
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\obj\Debug\WestBonusCalc.Form2.resources
+C:\Users\rig\source\repos\WestBonusCalc\WestBonusCalc\obj\Debug\WestBonusCalc.Form3.resources
